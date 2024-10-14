@@ -1,5 +1,5 @@
 app/hw/hw.o: ../app/hw/hw.c ../app/hw/hw.h ../app/hw/hw_def.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/common/def.h \
  ../Core/Inc/main.h ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../Core/Inc/stm32f4xx_hal_conf.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
@@ -30,7 +30,7 @@ app/hw/hw.o: ../app/hw/hw.c ../app/hw/hw.h ../app/hw/hw_def.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 ../app/hw/hw.h:
 ../app/hw/hw_def.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/common/def.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:

@@ -147,11 +147,11 @@ void StartDefaultTask(void *argument)
   {
 	  if(auto_manual) {
 		  Front_HCSR04 ();
-		  HAL_Delay(100);
+		  HAL_Delay(30);
 		  Left_HCSR04 ();
-		  HAL_Delay(100);
+		  HAL_Delay(30);
 		  Right_HCSR04 ();
-		  HAL_Delay(100);
+		  HAL_Delay(30);
 	  }
 
 	  osDelay(1);

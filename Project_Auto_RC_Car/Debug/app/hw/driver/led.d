@@ -1,6 +1,6 @@
 app/hw/driver/led.o: ../app/hw/driver/led.c ../app/hw/driver/led.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw_def.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw_def.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/common/def.h \
  ../Core/Inc/main.h ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../Core/Inc/stm32f4xx_hal_conf.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
@@ -30,8 +30,8 @@ app/hw/driver/led.o: ../app/hw/driver/led.c ../app/hw/driver/led.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 ../app/hw/driver/led.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw_def.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw_def.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/common/def.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:

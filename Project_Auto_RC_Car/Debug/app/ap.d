@@ -1,7 +1,7 @@
 app/ap.o: ../app/ap.c ../app/ap.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw_def.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw_def.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/common/def.h \
  ../Core/Inc/main.h ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../Core/Inc/stm32f4xx_hal_conf.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
@@ -32,8 +32,8 @@ app/ap.o: ../app/ap.c ../app/ap.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
  ../Core/Inc/dma.h ../Core/Inc/main.h ../Core/Inc/tim.h \
  ../Core/Inc/gpio.h ../Core/Inc/usart.h ../app/motor.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/driver/led.h \
- C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw_def.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/driver/led.h \
+ C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw_def.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
  ../Core/Inc/FreeRTOSConfig.h \
@@ -46,9 +46,9 @@ app/ap.o: ../app/ap.c ../app/ap.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
 ../app/ap.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw_def.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw_def.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/common/def.h:
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
@@ -84,8 +84,8 @@ C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/common/def.h:
 ../Core/Inc/gpio.h:
 ../Core/Inc/usart.h:
 ../app/motor.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/driver/led.h:
-C:/DATA/SOC_workspace/stm32/Project_Auto_RC_Car/app/hw/hw_def.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/driver/led.h:
+C:/Users/nexhy/OneDrive/문서/GitHub/Team-Project_Autonomous-RC-car/Project_Auto_RC_Car/app/hw/hw_def.h:
 ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h:
 ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
 ../Core/Inc/FreeRTOSConfig.h:

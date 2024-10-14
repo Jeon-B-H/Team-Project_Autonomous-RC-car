@@ -67,8 +67,8 @@ all: main-build
 main-build: Project_Auto_RC_Car.elf secondary-outputs
 
 # Tool invocations
-Project_Auto_RC_Car.elf Project_Auto_RC_Car.map: $(OBJS) $(USER_OBJS) C:\DATA\SOC_workspace\stm32\Project_Auto_RC_Car\STM32F411RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "Project_Auto_RC_Car.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\DATA\SOC_workspace\stm32\Project_Auto_RC_Car\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Project_Auto_RC_Car.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Project_Auto_RC_Car.elf Project_Auto_RC_Car.map: $(OBJS) $(USER_OBJS) C:\Users\nexhy\OneDrive\문서\GitHub\Team-Project_Autonomous-RC-car\Project_Auto_RC_Car\STM32F411RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "Project_Auto_RC_Car.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\nexhy\OneDrive\문서\GitHub\Team-Project_Autonomous-RC-car\Project_Auto_RC_Car\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Project_Auto_RC_Car.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
