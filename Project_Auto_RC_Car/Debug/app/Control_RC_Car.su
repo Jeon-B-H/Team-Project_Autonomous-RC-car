@@ -1,0 +1,2 @@
+../app/Control_RC_Car.c:11:6:control_RC_Car	8	static
+../app/Control_RC_Car.c:31:9:checkTheDistances	4	static

@@ -1,0 +1,5 @@
+../app/motor.c:6:6:control_motor	3
+../app/motor.c:18:6:select_IN_values_For_Auto_mode	6
+../app/motor.c:63:6:select_IN_values	7
+../app/motor.c:95:6:enter_IN_values	1
+../app/motor.c:103:6:enter_duty_of_motor	1
